@@ -1,0 +1,17 @@
+{
+    "name": "example",
+    "count": 1000,
+    "0" : {
+        "name" : "Collection",
+        "typeGeneration" : "Collection",
+        "list" : ["a", "б", "в"]
+        },
+    "1" : {
+        "name" : "Name",
+        "typeGeneration" : "Strings"
+        },
+    "2" : {
+        "name" : "Patronymic",
+        "typeGeneration" : "Masks"
+        }    
+}

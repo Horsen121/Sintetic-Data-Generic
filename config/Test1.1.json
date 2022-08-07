@@ -1,0 +1,15 @@
+{
+    "name": "test1",
+    "count": 10000,
+
+    "Column1":{
+        "name" : "Numeric1",
+        "type" : "int",
+        "typeGeneration" : "Numbers"
+    },
+    "Column2":{
+        "name" : "Numeric2",
+        "type" : "float",
+        "typeGeneration" : "Numbers" 
+    }
+}

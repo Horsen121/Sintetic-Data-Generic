@@ -1,0 +1,9 @@
+{
+    "name" : "test7",
+    "count" : 10000,
+    "Column1":{
+        "name" : "String1",
+        "type" : "string",
+        "typeGeneration" : "Strings"
+    }
+}

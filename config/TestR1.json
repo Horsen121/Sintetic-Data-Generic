@@ -1,0 +1,17 @@
+{
+    "name": "test6",
+    "count": 1000,
+    
+    "Column1":{
+        "name" : "Distribution",
+        "type" : "string",
+        "typeGeneration" : "Collection",
+        "list": ["а", "о", "у"] 
+    },
+    "Column2":{
+        "name" : "Distribution",
+        "type" : "string",
+        "typeGeneration" : "Collection",
+        "list": {"а":2, "о":5, "у":3}
+    }
+}

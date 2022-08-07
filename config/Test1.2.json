@@ -1,0 +1,23 @@
+{
+    "name": "test2",
+    "count": 10000,
+    
+    "Column1":{
+        "name" : "Mask1",
+        "type" : "string",
+        "typeGeneration" : "Masks",
+        "mask" : "б#р к#р с#р т#р п#р",
+        "typeMask": ["а", "о", "у", "э", "я", "ю", "е", "ё"] 
+    },
+    "Column2":{
+        "name" : "Mask2",
+        "type" : "string",
+        "typeGeneration" : "Masks" 
+    },
+    "Column3":{
+        "name" : "Mask3",
+        "type" : "string",
+        "typeGeneration" : "Masks",
+        "typeMask" : "str"
+    }
+}

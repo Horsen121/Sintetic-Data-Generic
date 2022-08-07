@@ -1,0 +1,26 @@
+{
+    "name": "test4",
+    "count": 1000,
+    
+    "Column1":{
+        "name" : "Join1",
+        "type" : "string",
+        "typeGeneration" : "Join",
+        "table" : "data",
+        "column" : 1 
+    },
+    "Column2":{
+        "name" : "Join2",
+        "type" : "int",
+        "typeGeneration" : "Join",
+        "table" : "data",
+        "column" : 2
+    },
+    "Column3":{
+        "name" : "Join3",
+        "type" : "string",
+        "typeGeneration" : "Join",
+        "table" : "data",
+        "column" : 3 
+    }
+}
