@@ -25,6 +25,9 @@ Timestamp
 	"secondBorder" : "1659879902"
 Collection
 	"list" : ["а", "о", "у"] или {"а":2, "о":5, "у":3} (второй вариант для расширенного функционала)
+Join
+	"table" : "table_name"
+	"column" : "column_number" (int)
 Name
 Lastname
 FIO
